@@ -13,14 +13,3 @@ aux_links:
 
 # Enable copy code button
 enable_copy_code_button: true
-
-# Navigation
-nav:
-  - Home
-  - Executive Summary
-  - Ideal Customer Profiles
-  - Key Highlights
-  - Targeting Strategy
-  - Messaging and Branding
-  - AI Business Assistant
-  - How to Use This Playbook
