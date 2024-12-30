@@ -1,36 +1,25 @@
 remote_theme: just-the-docs/just-the-docs
 title: Micro-Vision Go-To-Market Playbook
-description: A comprehensive playbook for market entry and growth
-color_scheme: light
+description: A comprehensive guide for market entry and growth
 
+color_scheme: light
 search_enabled: true
 heading_anchors: true
 
-aux_links:
-  "View on GitHub":
-    - "https://github.com/Detroit-ish/Micro-Vision-Go-To-Market-Playbook"
+# Enable copy code button
+enable_copy_code_button: true
 
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+# Footer content
 footer_content: "Copyright © 2024 Micro-Vision. All rights reserved."
 
-# Navigation Structure
-nav:
-  - title: Home
-    url: /
-  - title: Executive Summary
-    url: /executive-summary
-  - title: ICPs
-    children:
-      - title: Overview
-        url: /icps/overview
-      - title: Engineering
-        url: /icps/engineering
-      - title: Architecture
-        url: /icps/architecture
-      - title: VFX/3D
-        url: /icps/vfx-3d
-  - title: Targeting Strategies
-    url: /targeting-strategies
-  - title: Messaging and Branding
-    url: /messaging-and-branding
-  - title: AI Assistant
-    url: /ai-assistant
+# Aux links for the upper right navigation
+aux_links:
+  "View Repository":
+    - "https://github.com/Detroit-ish/Micro-Vision-Go-To-Market-Playbook"
+
+# Makes Aux links open in a new tab
+aux_links_new_tab: true
