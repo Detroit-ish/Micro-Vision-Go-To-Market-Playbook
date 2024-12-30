@@ -1,7 +1,7 @@
 ---
 title: AI Business Assistant
 layout: default
-nav_order: 6
+nav_order: 7
 ---
 
 # AI Business Assistant
@@ -24,3 +24,5 @@ Use your AI assistant to enhance your business operations and customer communica
 - Refine targeting strategies
 - Optimize message effectiveness
 - Analyze market trends and opportunities
+
+[Access your AI Bot](https://chatgpt.com/g/g-674dda255fc0819198dc0818557e4cea-mv-bot)
