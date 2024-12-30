@@ -1,53 +1,26 @@
-remote_theme: just-the-docs/just-the-docs
-
-# Site Settings
 title: Micro-Vision Go-To-Market Playbook
 description: A comprehensive guide for market entry and growth
-url: https://detroit-ish.github.io/Micro-Vision-Go-To-Market-Playbook
+remote_theme: just-the-docs/just-the-docs
 
-# Theme Settings
+# Color scheme and search
 color_scheme: light
 search_enabled: true
-heading_anchors: true
 
-# Aux links for upper right navigation
+# Aux links (GitHub link)
 aux_links:
   "View on GitHub":
     - "https://github.com/Detroit-ish/Micro-Vision-Go-To-Market-Playbook"
 
-# Custom Colors
-brand_color: "#0969DA"
+# Enable copy code button
+enable_copy_code_button: true
 
-# Footer Content
-footer_content: "Copyright © 2024 Micro-Vision. All rights reserved."
-
-# Collections
-collections:
-  sections:
-    permalink: "/:collection/:path/"
-    output: true
-
-# Navigation Settings
-navigation:
-  - title: Home
-    url: /
-  - title: Quick Start
-    url: /quick-start
-  - title: Target Industries
-    url: /industries
-    children:
-      - title: Engineering
-        url: /industries/engineering
-      - title: Architecture
-        url: /industries/architecture
-      - title: VFX/3D
-        url: /industries/vfx
-  - title: Playbook Sections
-    url: /sections
-    children:
-      - title: Targeting
-        url: /sections/targeting
-      - title: Messaging
-        url: /sections/messaging
-      - title: Campaigns
-        url: /sections/campaigns
+# Navigation
+nav:
+  - Home
+  - Executive Summary
+  - Ideal Customer Profiles
+  - Key Highlights
+  - Targeting Strategy
+  - Messaging and Branding
+  - AI Business Assistant
+  - How to Use This Playbook
