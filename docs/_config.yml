@@ -1,26 +1,53 @@
 remote_theme: just-the-docs/just-the-docs
-title: Micro-Vision Go-To-Market Playbook
-description: A comprehensive playbook for market entry and growth
 
+# Site Settings
+title: Micro-Vision Go-To-Market Playbook
+description: A comprehensive guide for market entry and growth
+url: https://detroit-ish.github.io/Micro-Vision-Go-To-Market-Playbook
+
+# Theme Settings
 color_scheme: light
 search_enabled: true
 heading_anchors: true
 
-# Back to top link
-back_to_top: true
-back_to_top_text: "Back to top"
+# Aux links for upper right navigation
+aux_links:
+  "View on GitHub":
+    - "https://github.com/Detroit-ish/Micro-Vision-Go-To-Market-Playbook"
 
-# Footer content
-footer_content: "Copyright © 2024 Micro-Vision"
+# Custom Colors
+brand_color: "#0969DA"
 
-# Navigation Structure
-nav_external_links:
-  - title: Initial Business Review
-    url: https://docs.google.com/document/d/1aXJpgmOadniKRNhfkQcis9WEs9Ndf_5lwSzAEYEuxQ0/
-    hide_icon: false
-  - title: Targeting Strategies
-    url: https://docs.google.com/document/d/1dHU0Ho-9S7LwnGJsDue7a2Fe6K76j_p1XmSqh3LOd0E/
-    hide_icon: false
-  - title: Messaging Guide
-    url: https://docs.google.com/document/d/1aJBiUylxoeRJpl2HT-NRVJ1DP2rfSab_Is0G-ch6kIk/
-    hide_icon: false
+# Footer Content
+footer_content: "Copyright © 2024 Micro-Vision. All rights reserved."
+
+# Collections
+collections:
+  sections:
+    permalink: "/:collection/:path/"
+    output: true
+
+# Navigation Settings
+navigation:
+  - title: Home
+    url: /
+  - title: Quick Start
+    url: /quick-start
+  - title: Target Industries
+    url: /industries
+    children:
+      - title: Engineering
+        url: /industries/engineering
+      - title: Architecture
+        url: /industries/architecture
+      - title: VFX/3D
+        url: /industries/vfx
+  - title: Playbook Sections
+    url: /sections
+    children:
+      - title: Targeting
+        url: /sections/targeting
+      - title: Messaging
+        url: /sections/messaging
+      - title: Campaigns
+        url: /sections/campaigns
