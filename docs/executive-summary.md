@@ -1,7 +1,7 @@
 ---
 title: Executive Summary
 layout: default
-nav_order: 3
+nav_order: 2
 ---
 
 # Executive Summary
@@ -12,14 +12,14 @@ This playbook brings together the key ideas and plans to help you focus on the r
 
 ## Key Insights from the Initial Business Review
 
-### Micro-Vision's biggest strengths include:
+### Micro-Vision's Biggest Strengths
 
 1. A great reputation (4.8/5 customer rating)
 2. 40 years of building reliable, high-performance systems
 3. Trusted local support that customers depend on
 4. A unique 16-hour testing process for every computer you sell
 
-### Opportunities we identified:
+### Opportunities We Identified
 
 1. Focus on industries with high demand: Engineering, Architecture, and VFX/3D
 2. Target small to medium-sized businesses (5–100 employees) that rely on powerful systems

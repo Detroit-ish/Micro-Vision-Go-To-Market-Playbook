@@ -1,7 +1,7 @@
 ---
 title: Key Highlights
 layout: default
-nav_order: 2
+nav_order: 3
 ---
 
 # Key Highlights by Section
@@ -24,18 +24,4 @@ nav_order: 2
 ## 6. AI Business Assistant
 "Use your AI assistant to help with outreach, ideas, and campaigns."
 
----
-
-## Quick Wins
-
-### 1. Work with Current Customers
-- Offer system upgrades to existing clients
-- Set up value-driven maintenance programs
-
-### 2. Add More Services
-- Stock quality components for clients who trust you
-- Offer packages for ongoing business support
-
-### 3. Make Operations Smoother
-- Use automation to handle inventory and customer follow-ups
-- Speed up order processing and improve communication
+[Access Micro-Vision AI Bot](https://chatgpt.com/g/g-674dda255fc0819198dc0818557e4cea-mv-bot)
