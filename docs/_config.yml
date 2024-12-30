@@ -1,25 +1,26 @@
 remote_theme: just-the-docs/just-the-docs
 title: Micro-Vision Go-To-Market Playbook
-description: A comprehensive guide for market entry and growth
+description: A comprehensive playbook for market entry and growth
 
 color_scheme: light
 search_enabled: true
 heading_anchors: true
-
-# Enable copy code button
-enable_copy_code_button: true
 
 # Back to top link
 back_to_top: true
 back_to_top_text: "Back to top"
 
 # Footer content
-footer_content: "Copyright © 2024 Micro-Vision. All rights reserved."
+footer_content: "Copyright © 2024 Micro-Vision"
 
-# Aux links for the upper right navigation
-aux_links:
-  "View Repository":
-    - "https://github.com/Detroit-ish/Micro-Vision-Go-To-Market-Playbook"
-
-# Makes Aux links open in a new tab
-aux_links_new_tab: true
+# Navigation Structure
+nav_external_links:
+  - title: Initial Business Review
+    url: https://docs.google.com/document/d/1aXJpgmOadniKRNhfkQcis9WEs9Ndf_5lwSzAEYEuxQ0/
+    hide_icon: false
+  - title: Targeting Strategies
+    url: https://docs.google.com/document/d/1dHU0Ho-9S7LwnGJsDue7a2Fe6K76j_p1XmSqh3LOd0E/
+    hide_icon: false
+  - title: Messaging Guide
+    url: https://docs.google.com/document/d/1aJBiUylxoeRJpl2HT-NRVJ1DP2rfSab_Is0G-ch6kIk/
+    hide_icon: false
