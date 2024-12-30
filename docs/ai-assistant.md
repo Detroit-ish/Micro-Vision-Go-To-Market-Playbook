@@ -1,24 +1,26 @@
+---
+title: AI Business Assistant
+layout: default
+nav_order: 6
+---
+
 # AI Business Assistant
 
-## Overview
-The AI assistant helps streamline your business processes and improve customer communication.
+Use your AI assistant to enhance your business operations and customer communications.
 
 ## Key Features
 
 ### Content Generation
-* Email templates
-* Social media posts
-* Blog content
-* Customer updates
+- Generate outreach ideas and improve your messages
+- Create email templates, blog posts, or social media content
+- Develop industry-specific marketing materials
 
 ### Resource Access
-* Quick access to ICPs
-* Persona information
-* Campaign templates
-* Best practices
+- Quickly access ICPs, personas, and other resources
+- Get instant answers about product specifications
+- Access best practices and guidelines
 
-### Strategy Support
-* Campaign ideation
-* Message optimization
-* Content customization
-* Market research assistance
+### Strategic Support
+- Refine targeting strategies
+- Optimize message effectiveness
+- Analyze market trends and opportunities
