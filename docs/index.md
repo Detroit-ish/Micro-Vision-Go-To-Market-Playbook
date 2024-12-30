@@ -1,6 +1,6 @@
 ---
+layout: home
 title: Home
-layout: default
 nav_order: 1
 ---
 
@@ -8,9 +8,11 @@ nav_order: 1
 
 **Purpose:** This playbook is designed to help Chris and the team find the right customers, connect with them, and grow Micro-Vision's business.
 
-## Key Strengths
+## Quick Navigation
 
-- A great reputation (4.8/5 customer rating)
-- 40 years of building reliable, high-performance systems
-- Trusted local support that customers depend on
-- A unique 16-hour testing process for every computer you sell
+1. [Executive Summary](docs/executive-summary)
+2. [Key Highlights](docs/key-highlights)
+3. [Ideal Customer Profiles](docs/ideal-customer-profiles)
+4. [Targeting Strategy](docs/targeting)
+5. [Messaging and Branding](docs/messaging)
+6. [AI Business Assistant](docs/ai-assistant)

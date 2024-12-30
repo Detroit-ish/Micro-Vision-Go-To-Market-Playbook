@@ -1,15 +1,11 @@
+remote_theme: pmarsceill/just-the-docs
 title: Micro-Vision Go-To-Market Playbook
 description: A comprehensive guide for market entry and growth
-remote_theme: just-the-docs/just-the-docs
 
-# Color scheme and search
-color_scheme: light
+# Enable or Disable site search
 search_enabled: true
 
-# Aux links (GitHub link)
+# Aux links for the upper right navigation
 aux_links:
   "View on GitHub":
     - "https://github.com/Detroit-ish/Micro-Vision-Go-To-Market-Playbook"
-
-# Enable copy code button
-enable_copy_code_button: true
