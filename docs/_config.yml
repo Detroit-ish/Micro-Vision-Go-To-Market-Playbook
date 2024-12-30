@@ -1,4 +1,36 @@
-theme: jekyll-theme-minimal
+remote_theme: just-the-docs/just-the-docs
 title: Micro-Vision Go-To-Market Playbook
 description: A comprehensive playbook for market entry and growth
-show_downloads: false
+color_scheme: light
+
+search_enabled: true
+heading_anchors: true
+
+aux_links:
+  "View on GitHub":
+    - "https://github.com/Detroit-ish/Micro-Vision-Go-To-Market-Playbook"
+
+footer_content: "Copyright © 2024 Micro-Vision. All rights reserved."
+
+# Navigation Structure
+nav:
+  - title: Home
+    url: /
+  - title: Executive Summary
+    url: /executive-summary
+  - title: ICPs
+    children:
+      - title: Overview
+        url: /icps/overview
+      - title: Engineering
+        url: /icps/engineering
+      - title: Architecture
+        url: /icps/architecture
+      - title: VFX/3D
+        url: /icps/vfx-3d
+  - title: Targeting Strategies
+    url: /targeting-strategies
+  - title: Messaging and Branding
+    url: /messaging-and-branding
+  - title: AI Assistant
+    url: /ai-assistant
