@@ -1,12 +1,6 @@
----
-layout: home
-title: Home
-nav_order: 1
----
-
 # Micro-Vision Go-To-Market Playbook
 
-**Purpose:** This playbook is designed to help Chris and the team find the right customers, connect with them, and grow Micro-Vision's business. It pulls together everything we've learned about your strengths, customers, and strategies into one easy-to-use guide.
+**Purpose:** This playbook is designed to help Chris and the team find the right customers, connect with them, and grow Micro-Vision's business.
 
 ## Quick Navigation
 
